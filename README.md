@@ -20,10 +20,14 @@ Go into your lovely named folder and head to maps, in here your gonna have to a 
 
 4)Editing the files yipeee
 
-Files going to be editing 
+Files going to be editing
+ 
 config.cpp
+
 mapinfoglobal.hpp (later on)
+
 navgrid.hpp
+
 Stringtable.xml
 
 
